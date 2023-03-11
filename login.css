@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://source.unsplash.com/user/wsanter);
+    background-color: aqua;
+    background-repeat: no-repeat;
+    width: max-content;
+    background-size: cover;
+    height: 100%;
+    margin: auto;
+    padding: 30px;
+    font-family: system-ui;
+}
+h1{
+    color: rgb(45, 49, 53);
+    font-weight: bold;
+}
+.field{
+    border-radius: 4px solid rgb(28, 94, 28);
+    
+    font-weight: bold;
+
+}
+legend{
+    font-size: 25px;
+}
+.pk{
+    margin: auto;
+    width: fit-content;
+    padding: 10px;
+}
+.pic{
+    display: flex;
+  justify-content: space-between;
+}
